@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 echo "##############################################"
-echo " I  AM  DEVIL (Lokesh) , PLZ SUBSCRIBE MY CHANNEL"
+echo "              Itz_PR_TheHacker"
 echo "##############################################"
 
 echo "WAIT UNTIL INSTALLING............" 
@@ -62,14 +62,14 @@ createuser msf
 createdb msf_database
 
 echo "###############################"
-echo "Thanx  To  Vishalbiswani"
+echo "Plz subscribe Itz_Hacker'z_Shed"
 echo "###############################"
 
 echo "###############################################"
-echo "Hello  I  Am  Devil  (Lokesh) ,  Subscribe  My  Channel  To  Motivate  My  Work"
+echo "                Itz_PR_The_Hacker"
 echo "###############################################"
 echo "###############################"
-echo "For  More. Tricks. Visit  At  hax4us.com"
+echo "       Thanks.   hax4us.com"
 echo "###############################"
 echo "####################################"
 echo " NOW YOU CAN LAUNCH METASPLOIT BY JUST EXECUTE THE COMMAND :=> msfconsole"
